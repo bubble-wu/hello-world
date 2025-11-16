@@ -3,4 +3,4 @@ github tutorial
 
 
 
-abit of myself
+a bit of myself
